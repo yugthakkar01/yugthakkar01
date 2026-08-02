@@ -1,7 +1,7 @@
 # Hi, I'm Yug Thakkar 👋
 
 ## ASCII Portrait
-<img src="./avi-ascii.svg" width="100%">
+<img src="./avi-ascii.svg" width="80%">
 
 ## 3D Wordmark
 <img src="./wordmark-rock.svg" width="100%">
