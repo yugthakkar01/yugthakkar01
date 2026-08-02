@@ -1,7 +1,7 @@
 """
-Render "AVI" as an EXTRUDED 3D wordmark rasterized to ASCII, and emit it as an
-SVG that animates on GitHub (SMIL only -- GitHub runs SVG animations in <img>,
-but never JS).
+Render the profile wordmark as an EXTRUDED 3D wordmark rasterized to ASCII, and
+emit it as an SVG that animates on GitHub (SMIL only -- GitHub runs SVG
+animations in <img>, but never JS).
 
 Pipeline: draw the word with a bold TTF -> threshold to a mask -> extrude the
 mask along +z into a surface voxel shell (front cap, back cap, boundary sides)
@@ -49,7 +49,7 @@ FONT_PATH = os.path.join(HERE, "..", "fonts", "JetBrainsMono-Regular.ttf")
 FONT_INDEX = int(os.environ.get("WORDMARK_FONT_INDEX", 0))
 # three letters across the full width leaves ~30 grid columns each, which is what
 # lets the cells be big enough to read as characters rather than as dither.
-TEXT = os.environ.get("WORDMARK_TEXT", "Yug")
+TEXT = os.environ.get("WORDMARK_TEXT", "YUG")
 
 MASK_H = 300           # glyph raster height in mask px (drives voxel density)
 TRACKING = 0.14        # extra letter-spacing, in em. counter gaps must survive the
