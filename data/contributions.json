@@ -1,12 +1,12 @@
 {
   "username": "yugthakkar01",
-  "generated_at": "2026-08-02T02:57:13Z",
+  "generated_at": "2026-08-02T13:25:54Z",
   "range": {
     "start": "2025-08-03",
     "end": "2026-08-02"
   },
-  "total_contributions": 32,
-  "active_days": 14,
+  "total_contributions": 28,
+  "active_days": 12,
   "avg_per_active_day": 2.3,
   "current_streak": {
     "length": 1,
@@ -15,8 +15,8 @@
   },
   "longest_streak": {
     "length": 2,
-    "start": "2026-04-22",
-    "end": "2026-04-23"
+    "start": "2026-04-27",
+    "end": "2026-04-28"
   },
   "best_day": {
     "date": "2026-06-04",
@@ -57,11 +57,11 @@
     },
     {
       "month": "2026-04",
-      "total": 13
+      "total": 12
     },
     {
       "month": "2026-05",
-      "total": 7
+      "total": 6
     },
     {
       "month": "2026-06",
@@ -69,7 +69,7 @@
     },
     {
       "month": "2026-07",
-      "total": 2
+      "total": 0
     },
     {
       "month": "2026-08",
@@ -1131,7 +1131,7 @@
     },
     {
       "date": "2026-04-23",
-      "count": 1
+      "count": 0
     },
     {
       "date": "2026-04-24",
@@ -1267,7 +1267,7 @@
     },
     {
       "date": "2026-05-27",
-      "count": 2
+      "count": 1
     },
     {
       "date": "2026-05-28",
@@ -1483,7 +1483,7 @@
     },
     {
       "date": "2026-07-20",
-      "count": 2
+      "count": 0
     },
     {
       "date": "2026-07-21",
